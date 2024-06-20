@@ -1,0 +1,29 @@
+h1{
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: blue;
+    padding: 0px;
+    margin: 50px;
+}
+
+.buscar{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
+}
+.buscar input[type="text"]
+{
+    border-radius: 60px;
+    width: 360px;
+    height: 30px;
+    
+}
+.buscar input[type="submit"]
+{
+    border-style: 10px;
+    width: 120px;
+    height: 30px;
+
+}
